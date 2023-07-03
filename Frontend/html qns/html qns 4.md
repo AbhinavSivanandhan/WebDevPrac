@@ -1,5 +1,6 @@
 # Web Dev Practice
 Question:
+Same as Q3, organise text and add emphasis or links etc.
 ![Alt text](image-6.png)
 
 Answer:

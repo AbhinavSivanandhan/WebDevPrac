@@ -1,6 +1,7 @@
 # Web Dev Practice
 
 Question2:
+HTML Tables - how to build structure
 ![Alt text](image-2.png)
 
 Answer:
