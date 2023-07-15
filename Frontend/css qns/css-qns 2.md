@@ -1,5 +1,5 @@
 # Web Dev Practice
-Question1 :
+Question2 :
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 Answer:
