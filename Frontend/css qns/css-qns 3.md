@@ -2,6 +2,8 @@
 Question 3:
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
+Note only(in case i want to use css variables):
+![Alt text](image-6.png)
 
 Answer:
 .head{
